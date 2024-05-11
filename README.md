@@ -31,3 +31,6 @@ I want to build a tool to leverage AI in the generation of mind maps, so a user 
 **Different use cases:** The tool should be malleable to different wants and needs, for example a Dungeon Master for a DND campaign, or a professor looking to plan out their lesson.
 
 **Nice to have:** It would be nice to take a written paper and break that into a mind map if possible
+
+- Tree is needed
+-
